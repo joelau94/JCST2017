@@ -1,0 +1,126 @@
+It shows that the performance of models that consider the relation between labels is better than that without considering the relations between labels . 
+Furthermore , we can also see that the perplexities of EHLLDA are lower than that of hLLDA over all four datasets . 
+EHLLDA , which incorporated prior information of paths and relaxed the assumption of hLLDA . 
+This paper presents a construction method that utilize transition words and negative words to classify the sentiment words in corpus , as these words can reverse the polarity of text . 
+Parameters and policy of POMDP-based DMs is estimated from data . 
+Taking the teach-and-learn task for example , even if objects mentioned in this task have fixsized slots , the possible values of slots are infinite because of infinity of objects . 
+In this way , DM obtains more information with which it can guide the dialogue in a more appropriate direction when 1-best result of speech recognition is inaccurate . 
+In slot-filling tasks based on SDS-POMDP , set of user goals Su is Cartesian product of all slots , which needs to be defined in advance . 
+System performs language understanding when user inputs an utterance , which includes intention recognition and slot value extraction . 
+In Algorithm 1 , we give out algorithm for the improved SDSPOMDP , which is consistent to algorithm for SDS-POMDP . 
+Our modification to observation model is mainly reflected in line 6 and line 17 to 20 . 
+The procedure of dynamic binding is shown between lines 7 to 16 . 
+Results of experiments indicate that our method can effectively overcome the infinite teaching objects problem in the teach-andlearn task . 
+Mongolian is one of the less studied languages for speech recognition . 
+And the feature is same as the mono1 . 
+First , according to how two morpheme meanings turn into word meanings by metonymy or metaphor , the undirected word was classified into 8 categories . 
+Digital libraries suffer from the overload problem , which makes the researchers have to spend much time to find relevant papers . 
+Previous paper recommendation methods are either citation-based or contentbased . 
+Co-coupling occurred when two papers referred a common third paper , then that two papers were Co-coupling . 
+The Co-coupling strength of two given papers was higher if they referred more common papers . 
+Then , they applied the HITS algorithm to assign each candidate paper a hub score , And finally according to the hub scores , the top-N papers would be recommended . 
+And if one paper had citation relation to another paper , the two papers were also considered similar . 
+The key-terms are extracted based on the tfidf score , the weights of these key-terms are computed by wordnet , and if key-terms tj appears in paper pi . 
+The main idea of graph-based semi-supervised classification was that similar instances tended to have similar categories . 
+General recommendation system will recommend some items for the user . 
+Mean Reciprocal Rank is only concerned about the ranking of the first relevant term which is returned by the system , average over all target papers . 
+In order to examine the sensitive of the initial weights of the edges , we do the other experiment . 
+Table 2 is the results of five different weights of edges combinations in the heterogeneous graph . 
+Frame semantics has a complete system , is an effective knowledge representation with empirical semantic properties against the background of cognitive mechanism , and directly oriented to the application . 
+It is of great importance to frame construction , sentence annotation and the valence patterns statistics of lexical unit , providing precondition for DOMLFSR . 
+The tagset we used in annotating divided into two kinds of English and Chinese . 
+Mapping the structure and meaning of language has been considered as one of the basic principles of reearches in Computational Linguistics and Language Information Processing , starting from the bottom of the language law , the pattern-matching event extraction method has important significance for domain-oriented multi-language news events extraction . 
+In addition , we will transfer above research productions to other suitable oriental languages like Malay , Thai , Japanese , and so on . 
+By observing the sentimental trend of the different topics beneath this event , we attempt to offer feasible suggestions for public sentiment monitoring . 
+Dependency and relational structure in treebank annotation . 
+The rules of hedges scope were mainly due to the different syntactic constituents which caused by its parts of speech . 
+The paper proposed a local community detection method , this method does not need to know the whole complex network information , it just starting from an initial node and calculating the tightness between the initial node and the adjacent nodes . 
+And gradually add the adjacent nodes to the community ; finally get this node community structure . 
+Identifying the role that animals play in their social networks . 
+And then the authors compare several POS tagging methods , the results prove that train data with the multi-level annotation can enhance the effects of POS tagging . 
+By considering the characteristics of both Chinese language and social networks , we build a set of discriminating features for Chinese irony detection . 
+For these features , information gain is applied to compare their efficiency , and several classifiers are also applied to test their stability . 
+In our work , lexical level features include the two entities , their NER tags , and the neighbor tokens of these two entities . 
+In our work , we adopt neural tensor layer to model the interactions of above extracted features in a mention . 
+We can think of this procedure from a joint learning perspective . 
+In another word , the representation learned contains information from all of these relations , hence it can capture the correlations among different relations . 
+On the one hand , comparing to traditional shallow models , our model does not dependent on lots of rich handdesigned features . 
+Further more , our model uses global structure information of parse trees . 
+One of drawbacks of these traditional models is that they need a lot of hand-designed features and rich resources to reach high performance . 
+They model SRL task using Time Delay neural networks and got competitive performance compared to the state-of-art traditional model . 
+Consider the expandability of the network , we also add a hidden layer below output layer . 
+So we need not take too much attention on the roles of other clauses . 
+Although the purpose of sharing weight is that the network can learning some general features from each recursive substructure , our goal is predict different semantic roles in one sentence . 
+So our model not only needs the global features but local features as well . 
+The loss is proportional to the number of nodes with an incorrect role in the proposed role set , which increases the more incorrect the proposed role set is . 
+Although our system is a recursive network based on parse tree , an average parse tree level is about ten and the length of sentence is about fifteen , the cost of computing on the recursive parse tree is similar with the cost of convolution layer in CNN . 
+Our model is also extensible for add more features and resources as talked in Section 3 . 
+SVM-CRF modeled the task by sequence labeling model , however this method performs badly and may be because the CRF model needs a large number of data to learn the model parameters and the imbalanced learning problem is not concerned . 
+LCR in the right section shares lookup table layer and convolutional layer with LDR The CNN architecture automatically learns features for classification task in the deep layers of its architecture . 
+Learning continuous representation of the context and its category are two highly related task , and it make sense that features useful for one task might be useful for another one . 
+Compared to traditional models , we incorporates much larger context and more patterns of interactions . 
+We adapt this network for dependency trees and propose the content-context vectorial representation for each node , this node representation compresses rich context of the whole sub-tree information . 
+The only difference is that in each chart cell , we keep B highest scored candidates instead of just one , and call 7 this list an agenda . 
+This will be time-consuming in practise . 
+The minibatch size was set as 20 . 
+We then directly applies this trained model in a reranking framework . 
+Compared with these models , our system considers richer more structural context information , and we do not rely on hand-crafted feature templates . 
+Such as treatment customization based on the risk level of the specific patient . 
+In this way , each report can be represented by a vector containing values of each attributes . 
+While the classifier trained by machine learning is validated through a 10-fold cross-validation approach . 
+After the tagging process was done , adopting maximum entropy model three subtasks of Chinese lexical analysis could be completed at once . 
+The raising performance indicates that the trinity character-based tagging method is much better than traditional method . 
+The corpus is based on connective-driven dependence tree representation system , which contains clause , connective , discourse relation , discourse structure et al . 
+Firstly , answer features bind question features to realize samples said ; Secondly , a question classifier will be trained on labeled questions using label propagation algorithm to annotate the category of unlabeled questions automatically . 
+Topics are then represented with multi-word expression . 
+Label examples for News , Twitter and NIPS topics . 
+Unbiased , which means that either of two characters semantic distance to the word is approximate or the word is non-compositional . 
+Generally speaking , when machine learning models such as ME and CRFs are used to train a Tibetan word segmenter . 
+These features are usually acquired by the help of external linguistic resources . 
+The traditional methods introduced above for implicit relation classification face two major challenges . 
+Since sentences in different length contain different number of word pairs , concatenation of word embeddings can not lead to a fixed-length vector representation . 
+Additionally , when we are training with discrete features , we follow the previous methods and remove the discrete features whose occurrence number lower than a cut-off , which is 3 , 5 , and 5 for first-last-first3 , words pairs and production rules respectively . 
+Our final system obtain the best performance for CONTINGENCY , EXPANSION and TEMPORAL relations , while keeps competitive in COMPARISON relation compared to the state-of-the-art methods . 
+In the future , we will devote ourselves to encode more linguistically features into distributed representation and explore more effective method to learn long-distance dependency of the syntax and semantics . 
+We add this ratio in a logarithm function as the weight of the matching word . 
+Performances of METEOR based on different score selections on fluency and accuracy with and without synonym matching at system-level in terms of Pearson correlation are shown in Tables 1-2 . 
+As the architecture is given in the Figure 2 , SCNN model consists of two convolutional layers to do the composition . 
+The our SCNN model for learning sentence representation . 
+Through the pooling layer , the sentence vectors transform into a document vector by a weighted-average operation . 
+We do two comparison experiments to show the effectiveness our model . 
+The Basic CNN is the basic convolutional neural network model which sentences are representing through convolutional layer and transform into a document vector by the average operation . 
+The parameters of SWNNmodel used in the deceptive opinion spam detection experiment is listing followed . 
+This phenomenon attracted researchers attention . 
+Sentences play different important role in the document . 
+We extend it based tree structure to recursive neural network to capture more syntactic and semantic information , and sentiment polarity shifting model is introduced . 
+Since the professional technical literature include amounts of complex noun phrases , identifying those phrases has an important practical value for such tasks as machine translation . 
+As the development of digital libraries and publication , there is a need to assemble new books or resources by taking advantage of books which having been published and stored in digital libraries . 
+So an automatic keyword recommendation mechanism is needed to faster the process of making items of books . 
+We did not use the user study valuation method for that we have enough annotated items to test and the annotated items were annotated by expert editors who have enough authority in tagging work , and it also saves lots of time . 
+But it does not means that we would abandon the extraction method because there are cases that the coming new item is quite different from the training set and the recommended keywords from statistical information may not cover the main idea of the item . 
+However , traditional NER systems are mainly based on complex hand-designed features which are derived from various linguistic analyses and maybe only adapted to specified area . 
+As the shallow machine learning methods described above have strong dependency on the artificial features and are hard to represent the complex models , deep learning has been applied on NER in recent years . 
+The outputs of hidden layer and output layer are saved and inputted into the next node . 
+Secondly , the affective features , which are extracted with the sentiment lexicon , are merge into feature clusters based on the method of computing the word similarity with the term vector , and then these feature clusters are used construct the text vector with low-dimension . 
+We build sentence weights model by word distribution which make the calculation efficient and simple . 
+Our likelihood estimation of weights shows as formula 2 . 
+And the meaning of the translation of our system is the same to that of the news domain translation system . 
+In the sentence 1 , the meaning of source sentence is that the economic growth may slow down , so , the translation of baseline is wrong and ours is accurately . 
+In order to better describe the corresponding relationship between the source domain and the attributes , the paper lists all the source domains , mapped more than 10 times . 
+Meanwhile , the ranking of the 5 categories has also changed , the source domain of the second place A_ people sharply declined , containing only 14 words and ranked third , while the number of D_ abstract things arranged in second place . 
+Im reminded of a counselor who would often state no one can drive your car unless you give them the keys . 
+You can not control others actions , but you can be responsible for your reactions . 
+For every candidate answer of the question we are considering , we score it base on its content and structure similarity with the support sets . 
+Notice that , a smaller distance means the feature of the candidate answer is more close with the representative . 
+So far , we made some rules solve this reasoning problem . 
+The evaluation of the system is performed by applying it on recognizing entailment relation of test text pairs . 
+It seeks to generalize a model , which is trained on a source domain and using it to label samples in the target domain . 
+Moreover , SS-LDA bases on sentence level while JST depends on document level . 
+Furthermore , prior knowledge that obtained from sentiment lexicons is utilized during the initialization for Gibbs Sampling . 
+My friends were disappointed to the sound . 
+Besides , in order to improving the sentiment detection , prior knowledge is incorporated during the initialization of Gibbs Sampling . 
+In summary , filtering the sentences whose polarities opposite to the overall orientation is significant for constructing a high quality training set . 
+That is to say , the classification model might not accurate when applying these samples for training directly . 
+By SS-LDA filtering , we move the sentences whose sentimental polarity strongly opposites the overall orientation . 
+This article firstly defined the phenomenon and explained related concepts , than demonstrated this phenomenon by exhausting spelling style of example word , raw corpus statistics and whole text annotation statistics etc . 
+Finally , we promote serious of methods to solve MSDP , it includes popularization of standardized input by raise awareness of the user , using intelligent IME to avoid input mistake , using the spelling error correction tools , exploration of raw corpus based statistical learning methods etc . 

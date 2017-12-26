@@ -1,0 +1,125 @@
+This suggests that EHLLDA is better at modeling the topics of the documents thus leads to better ranking results . 
+In PAM , the concept of topics is extended to be distributions not only over words , but also over other topics . 
+For instance , flight reservation system is such kind of dialogue system whose objective is to obtain all the information essential for flight-ticket ordering such as date , flight number and destination . 
+Generally such kind of essential information is called slot and such kind of dialogue system is known as slots-filling based dialogue system . 
+We conduct a series of experiments on a teachand-learn dialogue system . 
+The proposed model is based on SDS-POMDP , thus , we will first introduce original POMDP model and its application in DM known as SDS-POMDP model before introducing our model . 
+In this way , system can learn other three slots for different teaching objects like apple , watermelon , tomato , basketball or pencil-box . 
+Here target is a variable to be bind to some value during dialogue when values of other slots remain unchanged . 
+At last , dialogue system updates belief state according to current belief state and observation , and figures out what action should be taken in next round . 
+Dialogue system will be executing above procedures until it takes the submit action . 
+Or algorithm will empty variable of target and go into the next round without updating belief state . 
+For instance , when user teaches system cherry , robot learns that name of teaching object is other , that class is fruit , that color is red and that shape is circular . 
+Phonemes may insert , loss or vary during pronouncing . 
+To make the task easier , we decompose it into a series steps , and model the probability by a series individual models , which are acoustic models , lexical models and languages models . 
+Therefore , this corpus will facilitate comparative study of information extraction in Chinese and English , reveal the difference of semantic expression between languages , and also provide a valuable platform for research on cross-language relation extraction . 
+Such scheme allows delivering model without annotated data and without re-training on these data . 
+The similarities between target paper and candidate papers can help perform the paper recommendation task . 
+And then we present a heterogeneous graph-based similarity learning algorithm which is further applied for recommendation . 
+The algorithm calculated the CCIDF value of all papers in the database to a given paper A . 
+Almost all citation-based methods have the risk of that if a candidate paper has no citation relation to the target paper , the candidate paper will never be recommended even they share many common contents , like keywords or topic words . 
+Finally , we present a simple introduction of the solution of the similarity learning algorithm . 
+And there are also dependencies between the words in papers . 
+We defined an objective function to learn the edges weight iteratively . 
+The subset consists of two parts , one part contains 15 target papers published in 2008 or 2009 from 15 junior researchers , and the other part contains 597 full papers published from 2000 to 2006 as the candidate papers . 
+Compared with other methods , the our heterogeneous graph method improves the results significantly . 
+If two terms appeared in the same paper , then the weight can be calculated using the above method WordNet . 
+The relevance between the target papers and the candidate papers could be affected by the relationships of features with the same type and the importance of features to the paper . 
+Finally , we do some experiments on the real database , and the experimental results showed that this method performs more effective than the state-of-the-art methods for recommending relevant papers for the researchers . 
+According to investigation and the situation of other objective factors , we found that 18 domain lexical units have no corresponding frame in Berkeley FrameNet and need to newly built . 
+The source and proportion of DOV-ECFN frames shows in Figure 3 . 
+The method is based on semantic structure extraction , the main contents include KDG semantic analysis model ; KGD automatic generation and event templates extraction based on KDG . 
+It can be represented more intuitive by KDG when there is conflict between semantic and syntactic structure expression , such as support verb , transparent nouns , null instantiation and frame element fusion etc . 
+This paper presents an approach of Han-Vietnamese bilingual corpus of word alignment built Vietnamese Dependency Treebank method . 
+Experimental results show that this approach can simplify the process of manual collection and annotation of Vietnamese Treebank , also can save manpower and time building the Treebank . 
+The results provide a reference for contrast recognition of Chinese-English discourse relation for future . 
+Traditional community detection methods are on the basis of the global community , with the increase of nodes in the network , the size of network becomes larger , so that the community detection becomes more complex . 
+Applied the method to the Zachary karate club network and dolphin social network , and the experimental results demonstrate this method accuracy and feasibility . 
+An information flow model for conflict and fission in small groups . 
+So as for , authors use the POS of Tibetan syllables to predict POS of words . 
+The results of experiments show that POS of syllables can correct some tagging errors caused in POS tagging . 
+As shown in Figure 1 , the same pair of entities may have multiple relation labels each instantiated in different scenarios , how to capture dependencies between these relations and learn them jointly is an important question . 
+This process can be regarded as a way to aggregate evident features and discard noises introducing by wrong labels . 
+This process indicates a true relation I not relation II between the given entity pair . 
+As illustrated by Figure 5 , we expect some dimension of mention level representation is crucial for a certain relation . 
+Previous approaches more relied on the sophisticated features extracted from mentions , and resulted in a large number of sparse features . 
+Therefore , more mentions give more confidence on the prediction of relations with our approach . 
+Given a predicate of a sentence , the goal of SRL is to assign sematic roles to the constituents of the sentence with respect to the predicate . 
+Attention that one phrase in the sentence could only have at most one semantic role to the given predicate . 
+Different from two-step method , our model directly gives whether a constituent is semantic role and which the role type . 
+Second , considering that our model predict each node whether it has a semantic role , each tree node has an output layer . 
+If a sister is a PP , also collect its immediate children . 
+So our baseline model will predict them either the same semantic role or none role . 
+Achieving this goal , weight of the parse tree is tied by POS tag . 
+Node position is a feature which represents whether the tree node is in the left , right or middle of the predicate node . 
+We do not need waste time using softmax layer the compute the possibility of each semantic role . 
+Compare to traditional model , our model uses fewer features . 
+Local feature vectors extracted by the convolutional layers are combined to obtain a global feature vector by pooling operation , with fixed size independent of context length . 
+We find that penalizing more negative examples , convergence speed can be greatly accelerated . 
+This algorithm represents each document by a dense vector which is trained to predict words in the document . 
+The other pseudo entity describes the situation that name is used as a common word and out pseudo entity represents the target entities which are not contained in KB . 
+Model architecture and the propagation process in a dependency tree the only feature we use is the word and pos-tag for each node . 
+But as we score each node with the whole sub-tree structure in consideration , which breaks the dynamic programming condition and thus the model can only use inexact search . 
+Therefore we also experiments in the reranking framework , without any extra training once we get the model trained for parsing . 
+The loss increases the more incorrect the proposed parse tree is . 
+The top-60 candidate trees are generated by the our baseline , the Beam Arc-Standard system . 
+We can see that , on one hand , our model captures the syntactic similarities among pos-tags quite well . 
+As time goes on , there are more and more Echo reports being accumulated . 
+Machine learning and rule-based methods are compared for their prediction performance . 
+On one hand , this result indicates that the machine learning method is able to find the key information for clinical decision support . 
+Routine preoperative focused ultrasonography by anesthesiologists in patients undergoing urgent surgical procedures . 
+Second , explanatory evaluations have proven to be informative clues for feature clustering . 
+Contrary to the experiment 1 , the experiment 2 revealed that processing cost of the derived words almost same with the monomorphemic words . 
+To solve the problem of lacking enough training data in event relation detection tasks , we proposed a novel approach based on Tri-Training to augment the training corpus . 
+The hypothesis testing is run recursively . 
+Beginning character biased , which means that the meaning of first character is closer to the meaning of word . 
+Ending character biased , which means that the meaning of last character is closer to the meaning of word . 
+As the POS property is on syllable level , but the tag unit is a sub-syllable , we have to split a certain syllable into two sub-syllables . 
+Feature templates TMPT-10 used in this paper . 
+In spite of the validity of word pairs and first-last-first3 , this kind of discrete lexical features heavily suffered from sparsity problem . 
+We aim to learn dense continuous representations to alleviate the data sparsity and explore the similarities between words , instead of regarding them as independent tokens . 
+The dimension of two fully-connected layers is set 50 and the output length is set 25 . 
+The reason is that we use context-based models and these words share the similar contexts . 
+This paper presents an novel Joint Segmentation and Classification Model forChinese microblogging sentiment analysis . 
+The model we proposed can enhance the performance , which can not only amend part of the segmentation results , and can generate some sentiment phrases . 
+It seemed we overestimated the translation quality by mean of alignment with candidate and references , contrary to the intuitive assumption in current reference-based evaluation metrics . 
+Existing approaches to detect deceptive spam are concern on feature designing . 
+The sentence weight is a normalization value like in the following formula . 
+The our SWNN model for learning sentence representation . 
+Hence , we construct a mixture domain dataset . 
+We can see the our basic document representation perform comparable respectively with the best results of baseline on two domain . 
+The window size is set as 2 . 
+One is deceptive opinion spam detection , and another is deep learning for specific task representation learning . 
+Secondly , anotated the grammar pionts in 141464 sentences and obtained 95592 sentences with grammar pionts , referring 580 basic forms and 233 semantic categoris . 
+Because of the network is only a line chain , it can not storage the structure of hierarchical information language . 
+First , extract high-dimensional distributional lexical information from a large scale unlabeled corpus , then perform unsupervised dimension reduction for the low-dimensional lexicon features by an auto-encoder . 
+However , the training data has imbalanced distribution in reality that affect the recognition performance of the implicit discourse relation . 
+The editors audit and check the recommended keywords and give feedback to the system that whether the keywords are appropriate or not and give the right keywords to update the training model . 
+Our proposed algorithm selects a hybrid approach of keyword recommendation which considers both the probability based method and traditional extraction based method mentioned above . 
+Recall is rather important for the keyword recommendation process in digital publication domain for that most of the time the recommended keywords are not adopted automatically but needs manual verification and audit . 
+When editors hope recommend new keywords from the content of the item directly we can use the hybrid approach , otherwise , the probability approach are recommended . 
+In order to fully utilizing all the information saved in previous nodes , we give an improved RNN architecture which can not only maintain a copy of hidden layer but also record the probability of output layer . 
+Finally each word vector x is inputted into the improved RNN and the output layer gives the label . 
+We describe a sentence-level domain adaptation translation system , which trained with the sentence-weight model . 
+We assign weights which depend on the word distribution to each sentence pair in the training corpus . 
+And the next two are the first sentence and the fourth sentence in order of the similarity with the target sentences . 
+For the instance 1 , the difference between our system and the baseline is the target to slow down , in our system the target is the economic growth , while in the baseline system the target is the japan . 
+Therefore , this paper mainly explores the structure and semantic classification of Y , based on the comprehensive modern Chinese BCC online , covers all the works from modern writers . 
+That means that the mapping of target domain to source domain , will activated between 2 to 5 attributes of S domain words . 
+The tool and results can be applied in the compilation of language resources for Chinese-English translation and corpus-based China studies . 
+Fellow users who know the answers or have similar experiences would reply their opinions , sometimes under the incentive mechanism of the site . 
+Most of state-of-the-art methods evaluate the answer quality in CQA through the relevance between questions an answers . 
+Base on these two hypotheses , we propose a novel model to rank the candidate answers . 
+Then the candidate answers are ranked base on the distance where the smaller the distance , the closer it is to the top . 
+The method of COS measured the answer quality though the cosine distance between questions and answers . 
+Overall , the performance of the system improves gradually when the number of features increasing . 
+Recently , cross-domain sentiment classification is becoming popular owing to its potential applications , such as marketing et al . 
+In order to mining the sentence sentiment polarities , we propose an expansion of LDA model , jointing sentiment with topic based on sentence level , named SS-LDA . 
+In order to mining the sentiment polarity of every sentence , SSLDA is adapted for orientation prediction . 
+In the stage of data preprocessing , Stanford Core NLP Parser is applied to stemming and segment all the reviews into sentences . 
+Additionally , we remove the stop words and punctuations for sake of less noisy . 
+Observing the result above , we can conclude that the performance of SF gets significant improvement compared with NoTrans which using all the sentences in source domain . 
+This phenomenon leads to uncertainty when label the training samples . 
+To demonstrating the effectiveness of our model , we compare it with several stateof-the-art cross-domain classification methods mentioned in Baseline . 
+Firstly , different from SS-FE which conducting filtration on sample level , SF-SE only filters the sentences whose sentimental orientation opposite to that of the belonging sample . 
+Second , it deviates the expressing pattern of the sentence from the target language . 
