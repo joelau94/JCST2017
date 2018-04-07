@@ -1,5 +1,10 @@
 # JCST2017
 + Paper and codes for 'Exploiting Unlabeled Data For Neural Grammatical Error Detection'
++ Requirement
+  * Python 2.7
+  * Tensorflow 0.9.0
+  * nltk 3.2.1
+  * Torch7
 + How to cite:
 	```
 	@article{Liu2017ExploitingUD,
